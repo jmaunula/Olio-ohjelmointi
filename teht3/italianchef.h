@@ -10,7 +10,7 @@ class ItalianChef : public Chef
 public:
     ItalianChef(string);
     ~ItalianChef();
-    bool askSecret(string, int, int);
+    void askSecret(string, int, int);
 
     string password = "pizza";
     int flour;

@@ -11,7 +11,6 @@ Chef::Chef(string n) : chefName(n)
 Chef::~Chef()
 {
     cout <<"Chef " <<getName() <<" destructor" <<endl;
-
 }
 
 string Chef::getName()
