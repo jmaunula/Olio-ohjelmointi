@@ -4,4 +4,14 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        asiakas.cpp \
+        luottotili.cpp \
+        main.cpp \
+        pankkitili.cpp
+
+HEADERS += \
+    asiakas.h \
+    luottotili.h \
+    pankkitili.h
+
+
