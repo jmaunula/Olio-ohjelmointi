@@ -4,4 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        notifikaattori.cpp \
+        seuraaja.cpp
+
+HEADERS += \
+    notifikaattori.h \
+    seuraaja.h
