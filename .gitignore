@@ -10,5 +10,9 @@ teht5/build/
 teht5/*.user
 teht6/build/
 teht6/*.user
+teht7_01/build/
+teht7_01/*.user
+teht7_02/build/
+teht7_02/*.user
 pankkisovellus/build/
 pankkisovellus/*.user
